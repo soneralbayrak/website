@@ -6,17 +6,11 @@ cd $BASEDIR
 bundle install
 rm Gemfile.lock
 cp necessary Gemfile.lock
-nohup bundle exec jekyll serve > my.log 2>&1 &
-echo $! > save_pid.txt
 
+git add .
+git commit -am "update"
 
-
-
-while ! (grep -Fq "ctrl-c" my.log)
-do
-    sleep 0.1
-done
-open http://127.0.0.1:4000/website/
+yes | ./bin/deploy --user
 
 kill -9 $PPID
 

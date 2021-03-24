@@ -1,0 +1,11 @@
+Configuration file: /Users/sa853/Documents/website/_config.yml
+            Source: /Users/sa853/Documents/website
+       Destination: /Users/sa853/Documents/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Complete, processed 1 pagination page(s)
+                    done in 5.524 seconds.
+ Auto-regeneration: enabled for '/Users/sa853/Documents/website'
+    Server address: http://127.0.0.1:4000/website/
+  Server running... press ctrl-c to stop.

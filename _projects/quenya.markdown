@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 10
+title: quenya
+description: J.R.R. Tolkien'in yapma dilinin Türkçe anlatımı
+img: /assets/img/arwen.png
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.

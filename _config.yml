@@ -133,6 +133,7 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-multiple-languages-plugin
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

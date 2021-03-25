@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 10
+title: Mathematica
+description: Benim ya da başkalarının yazdığı ilginç Mathematica kodları
+img: /assets/img/mathematica.png
+importance: 3
 ---
 
 Every project has a beautiful feature showcase page.

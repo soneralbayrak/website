@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 10
+title: popüler fizik 
+description: Youtube'dan fizik videolarım
+img: /assets/img/evrim_agaci.png
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.

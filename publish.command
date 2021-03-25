@@ -10,7 +10,7 @@ cp necessary Gemfile.lock
 git add .
 git commit -am "update"
 
-yes | ./bin/deploy --user
+JEKYLL_GITHUB_TOKEN=a60240e8ec4d3a021a75a0784f9b18d91af947fe yes | ./bin/deploy --user
 
 kill -9 $PPID
 

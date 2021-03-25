@@ -7,7 +7,7 @@ bundle install
 rm Gemfile.lock
 cp necessary Gemfile.lock
 kill $(lsof -t -i:4000)
-nohup bundle exec jekyll serve > my.log 2>&1 &
+JEKYLL_GITHUB_TOKEN=a60240e8ec4d3a021a75a0784f9b18d91af947fe nohup bundle exec jekyll serve > my.log 2>&1 &
 # echo $! > save_pid.txt
 
 

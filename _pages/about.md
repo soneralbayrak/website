@@ -2,23 +2,33 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <em>Being good is easy, what is difficult is being just </em>--Victor Hugo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Sloane Physics Laboratory</p>
+    <p>217 Prospect Street</p>
+    <p>New Haven, CT 06511</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+* Born and raised in [Turkey](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Turkey_%28orthographic_projection%29.svg/1106px-Turkey_%28orthographic_projection%29.svg.png){:target="\_blank"} <i class="far fa-flag"></i>
+* Studied Electrical & Electronics Engineering <i class="fas fa-plug"></i> and Physics <i class="fas fa-atom"></i>
+* On his journay to become a scientist <i class="fab fa-researchgate"></i>
+* Long time anime fan <i class="fas fa-tv"></i>
+* Longer time PC gamer <i class="fab fa-steam"></i>
+* Washed-up/never-successful pianist/martial artist/[Quenya](https://en.wikipedia.org/wiki/Quenya){:target="\_blank"} speaker
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<em>İyi olmak kolaydır, asıl zor olan adil olmaktır</em>--Victor Hugo
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* [Türkiye'de](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Turkey_%28orthographic_projection%29.svg/1106px-Turkey_%28orthographic_projection%29.svg.png){:target="\_blank"} doğma büyüme <i class="far fa-flag"></i>
+* Elektrik ve Elektronik Mühendisliği <i class="fas fa-plug"></i> ile Fizik <i class="fas fa-atom"></i> okudu
+* Bilim insanı olma yolunda <i class="fab fa-researchgate"></i>
+* Uzun süreli anime izleyicisi <i class="fas fa-tv"></i>
+* Daha da uzun süreli bilgisayar oyunu meraklısı <i class="fab fa-steam"></i>
+* Geçmişte-bırakmış/pek-de-becerememiş pianist/savunma sanatçısı/[Quenya](https://en.wikipedia.org/wiki/Quenya){:target="\_blank"} meraklısı

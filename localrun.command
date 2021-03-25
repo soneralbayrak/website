@@ -6,8 +6,9 @@ cd $BASEDIR
 bundle install
 rm Gemfile.lock
 cp necessary Gemfile.lock
+kill $(lsof -t -i:4000)
 nohup bundle exec jekyll serve > my.log 2>&1 &
-echo $! > save_pid.txt
+# echo $! > save_pid.txt
 
 
 

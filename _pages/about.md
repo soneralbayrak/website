@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-* Born and raised in [Turkey](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Turkey_%28orthographic_projection%29.svg/1106px-Turkey_%28orthographic_projection%29.svg.png){:target="\_blank"} <i class="far fa-flag"></i>
+* Bornn and raised in [Turkey](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Turkey_%28orthographic_projection%29.svg/1106px-Turkey_%28orthographic_projection%29.svg.png){:target="\_blank"} <i class="far fa-flag"></i>
 * Studied Electrical & Electronics Engineering <i class="fas fa-plug"></i> and Physics <i class="fas fa-atom"></i>
 * On his journay to become a scientist <i class="fab fa-researchgate"></i>
 * Long time anime fan <i class="fas fa-tv"></i>
